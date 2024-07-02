@@ -1,0 +1,111 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+    text-align: center;
+    background-color: #4C94F6;
+    font-family: "Marvel", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.logo{
+    text-align: center;
+    font-size: 55px;
+    
+    padding-top: 20px ;
+    color: white;
+    letter-spacing: -12px;
+
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: bold;
+}
+
+#coverLogo{
+    text-align: center;
+    margin: auto;
+    margin-top: 170px ;
+    margin-bottom: 170px;
+    width: 1200px;
+    height: 150px;
+    border: 5px solid rgb(46, 46, 46);
+}
+
+#black{
+    color: rgb(34, 34, 34);
+}
+
+.menu li{
+    display:inline-block;
+    padding: 10px;
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+
+.h2{
+    font-size: 50px;
+    font-weight: bold;
+    font-weight: 300;
+    padding: 20px;
+}
+
+.about-section{
+    margin-top: 270px;
+    padding: 20px;
+}
+.column{
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.about-section img{
+    float: left;
+    margin-left: 70px ;
+    position: relative;
+    width: 200px;
+}
+
+.worked-section{
+    margin-top: 400px;
+    margin-bottom: 300px;
+    padding: 10px;
+}
+
+.worked-section img{
+    width: 600px;
+    height: 380px;
+    border: 1px solid white;
+}
+
+.contract-section{
+ margin-top: 100px;
+ margin-bottom: 100px;
+ padding: 20px;
+}
+
+form{
+    width: 300px;
+    height: 150px;
+    margin: auto;
+}
+
+.form-row{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#submit-button{
+    font-size: 15px;
+}
+
+footer{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: #F6DB34;
+}
+
+
